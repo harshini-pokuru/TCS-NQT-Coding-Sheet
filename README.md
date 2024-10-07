@@ -34,6 +34,8 @@
 
 #### 17. [Find missing number in an array](Arrays/MissingNumber.java)
 
+#### 18. [Move all zeroes to the end in an array](Arrays/MoveZeroesToEnd.java)
+
 #### 18. [Remove duplicates from a sorted array](Arrays/RemoveDuplicatesFromSortedArray.java)
 
 #### 19. [Reverse a given array](Arrays/ReverseAnArray.java)
