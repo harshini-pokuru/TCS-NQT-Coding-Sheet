@@ -36,21 +36,23 @@
 
 #### 18. [Move all zeroes to the end in an array](Arrays/MoveZeroesToEnd.java)
 
-#### 19. [Remove duplicates from a sorted array](Arrays/RemoveDuplicatesFromSortedArray.java)
+#### 19. [Print an array containing integers from 1 to ‘n’ (in increasing order) without using loops](Arrays.OnetonWithoutLoop.java)
 
-#### 20. [Reverse a given array](Arrays/ReverseAnArray.java)
+#### 20. [Remove duplicates from a sorted array](Arrays/RemoveDuplicatesFromSortedArray.java)
 
-#### 21. [Find the smallest largest element in an array](Arrays/SecondLargest.java)
+#### 21. [Reverse a given array](Arrays/ReverseAnArray.java)
 
-#### 22. [Find the number that appears once, and other numbers twice](Arrays/SingleNumber.java)
+#### 22. [Find the smallest largest element in an array](Arrays/SecondLargest.java)
 
-#### 23. [Find the smallest number in an array](Arrays/Smallestnumber.java)
+#### 23. [Find the number that appears once, and other numbers twice](Arrays/SingleNumber.java)
 
-#### 24. [Find all the subarrays of an array](Arrays/Subarrays.java)
+#### 24. [Find the smallest number in an array](Arrays/Smallestnumber.java)
 
-#### 25.[Calculate sum of the elements of the array](Arrays/SumOfArray.java)
+#### 25. [Find all the subarrays of an array](Arrays/Subarrays.java)
 
-#### 26. [Find all symmetric pairs in array](Arrays/SymmetricPairs.java)
+#### 26.[Calculate sum of the elements of the array](Arrays/SumOfArray.java)
+
+#### 27. [Find all symmetric pairs in array](Arrays/SymmetricPairs.java)
 
 <br>
 
