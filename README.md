@@ -52,6 +52,36 @@
 
 #### 26. [Find all symmetric pairs in array](Arrays/SymmetricPairs.java)
 
+<br>
 
 ## Problems on Numbers
 
+#### 1. [Check if a number is an Armstrong Number](Numbers/ArmstrongNumber.java)
+
+#### 2. [Check if a number is a Palindrome](Numbers/CheckPalindrome.java)
+
+#### 3. [Check if a number is a Perfect Number](Numbers/CheckPerfectNumber.java)
+
+#### 4. [Check if a number is Positive or Negative](Numbers/CheckPositiveNegative.java)
+
+#### 5. [Check if a number is Prime](Numbers/CheckPrime.java)
+
+#### 6. [Count the digits in a number](Numbers/CountDigits.java)
+
+#### 7. [Check if a number is Even or Odd](Numbers/EvenOddCheck.java)
+
+#### 8. [Find the GCD (Greatest Common Divisor) of two numbers](Numbers/GCD.java)
+
+#### 9. [Check if a year is a Leap Year](Numbers/LeapYear.java)
+
+#### 10. [Find all Palindromes in a given range](Numbers/PalindromesInRange.java)
+
+#### 11. [Find all Prime numbers in a given range](Numbers/PrimeInRange.java)
+
+#### 12. [Print all divisors of a number](Numbers/PrintDivisors.java)
+
+#### 13. [Reverse the digits of a number](Numbers/ReverseDigits.java)
+
+#### 14. [Reverse an integer](Numbers/ReverseInteger.java)
+
+#### 15. [Calculate the sum of the first N natural numbers](Numbers/SumOfNNaturalNumbers.java)
