@@ -4,7 +4,7 @@
 
 #### 2. [Average of all elements in an array](Arrays/AverageOfArray.java)
 
-#### 3. [Circular rotation of an array by K positions](Arrays/CircularRotation.java).
+#### 3. [Circular rotation of an array by K positions](Arrays/CircularRotation.java)
 
 #### 4. [Find all duplicates in an array](Arrays/Duplicates.java)
 
