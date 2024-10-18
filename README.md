@@ -88,4 +88,6 @@
 
 #### 15. [Find Sum of AP Series](Numbers/SumOfAPSeries.java)
 
+#### 16. [Find Sum of GP Series](Numbers/SumOfGPSeries.java)
+
 #### 1. [Calculate the sum of the first N natural numbers](Numbers/SumOfNNaturalNumbers.java)
