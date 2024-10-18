@@ -86,4 +86,6 @@
 
 #### 14. [Reverse an integer](Numbers/ReverseInteger.java)
 
-#### 15. [Calculate the sum of the first N natural numbers](Numbers/SumOfNNaturalNumbers.java)
+#### 15. [Find Sum of AP Series](Numbers/SumOfAPSeries.java)
+
+#### 1. [Calculate the sum of the first N natural numbers](Numbers/SumOfNNaturalNumbers.java)
