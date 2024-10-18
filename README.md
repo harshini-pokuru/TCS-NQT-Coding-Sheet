@@ -90,4 +90,4 @@
 
 #### 16. [Find Sum of GP Series](Numbers/SumOfGPSeries.java)
 
-#### 1. [Calculate the sum of the first N natural numbers](Numbers/SumOfNNaturalNumbers.java)
+#### 17. [Calculate the sum of the first N natural numbers](Numbers/SumOfNNaturalNumbers.java)
